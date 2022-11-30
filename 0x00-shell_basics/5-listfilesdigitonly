@@ -1,3 +1,4 @@
 ls -na
 ls -na
 ls -lf
+ls -an
