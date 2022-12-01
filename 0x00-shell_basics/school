@@ -1,2 +1,2 @@
-#!/bin/bash
-0	string SCHOOL this is a school file  !:mime text/school file --mime-type -m school.mgc* SCHOOL is  good
+0	string SCHOOL this is a school file 
+!:mime School
