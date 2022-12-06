@@ -1,1 +1,1 @@
- file, at the root of the folder of the project
+a script that prints hello user, where user is the current Linux user.
